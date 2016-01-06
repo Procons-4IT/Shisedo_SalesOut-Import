@@ -1,0 +1,8 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="2048" Image="" Position="3" String="Sell Out Data Capture"
+     Type="1" UniqueID="mnu_SellOut"></Menu>
+    </action>
+  </Menus>
+</Application>

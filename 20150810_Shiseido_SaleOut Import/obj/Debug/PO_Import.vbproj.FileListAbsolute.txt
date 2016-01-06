@@ -1,0 +1,111 @@
+D:\Project\20140904_PO_Import\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20140904_PO_Import\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20140904_PO_Import\obj\Debug\PO_Import.vbproj.ResolveComReference.cache
+D:\Project\20140904_PO_Import\obj\Debug\PO_Import.exe
+D:\Project\20140904_PO_Import\obj\Debug\PO_Import.xml
+D:\Project\20140904_PO_Import\obj\Debug\PO_Import.pdb
+D:\Project\20140904_PO_Import\bin\Debug\PO_Import.exe
+D:\Project\20140904_PO_Import\bin\Debug\PO_Import.pdb
+D:\Project\20140904_PO_Import\bin\Debug\PO_Import.xml
+D:\Project\20140904_PO_Import\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20140904_PO_Import\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20140904_PO_Import\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\20140904_PO_Import\obj\Debug\PO_Import.Resources.resources
+D:\Project\20140904_PO_Import\obj\Debug\ResGen.read.1.tlog
+D:\Project\20140904_PO_Import\obj\Debug\ResGen.write.1.tlog
+D:\Project\20140904_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\20140904_PO_Import\bin\Debug\office.dll
+D:\Project\20140904_PO_Import\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\20140904_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\20140904_PO_Import\bin\Debug\office.xml
+D:\Project\20141111_PO_Import\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20141111_PO_Import\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20141111_PO_Import\obj\Debug\PO_Import.vbproj.ResolveComReference.cache
+D:\Project\20141111_PO_Import\obj\Debug\PO_Import.exe
+D:\Project\20141111_PO_Import\obj\Debug\PO_Import.xml
+D:\Project\20141111_PO_Import\obj\Debug\PO_Import.pdb
+D:\Project\20141129_PO_Import\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20141129_PO_Import\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20141129_PO_Import\obj\Debug\PO_Import.vbproj.ResolveComReference.cache
+D:\Project\20141129_PO_Import\obj\Debug\PO_Import.exe
+D:\Project\20141129_PO_Import\obj\Debug\PO_Import.xml
+D:\Project\20141129_PO_Import\obj\Debug\PO_Import.pdb
+D:\Project\20141129_PO_Import\bin\Debug\PO_Import.exe
+D:\Project\20141129_PO_Import\bin\Debug\PO_Import.pdb
+D:\Project\20141129_PO_Import\bin\Debug\PO_Import.xml
+D:\Project\20141129_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\20141129_PO_Import\bin\Debug\office.dll
+D:\Project\20141129_PO_Import\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\20141129_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\20141129_PO_Import\bin\Debug\office.xml
+D:\Project\20141129_PO_Import\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20141129_PO_Import\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20141129_PO_Import\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\20141129_PO_Import\obj\Debug\PO_Import.Resources.resources
+D:\Project\20141129_PO_Import\obj\Debug\ResGen.read.1.tlog
+D:\Project\20141129_PO_Import\obj\Debug\ResGen.write.1.tlog
+D:\Project\20141210_PO_Import\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20141210_PO_Import\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20141210_PO_Import\obj\Debug\PO_Import.vbproj.ResolveComReference.cache
+D:\Project\20141210_PO_Import\obj\Debug\PO_Import.exe
+D:\Project\20141210_PO_Import\obj\Debug\PO_Import.xml
+D:\Project\20141210_PO_Import\obj\Debug\PO_Import.pdb
+D:\Project\20141210_PO_Import\bin\Debug\PO_Import.exe
+D:\Project\20141210_PO_Import\bin\Debug\PO_Import.pdb
+D:\Project\20141210_PO_Import\bin\Debug\PO_Import.xml
+D:\Project\20141210_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\20141210_PO_Import\bin\Debug\office.dll
+D:\Project\20141210_PO_Import\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\20141210_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\20141210_PO_Import\bin\Debug\office.xml
+D:\Project\20141210_PO_Import\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20141210_PO_Import\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20141210_PO_Import\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\20141210_PO_Import\obj\Debug\PO_Import.Resources.resources
+D:\Project\20141210_PO_Import\obj\Debug\ResGen.read.1.tlog
+D:\Project\20141210_PO_Import\obj\Debug\ResGen.write.1.tlog
+D:\Project\20141215_PO_Import\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20141215_PO_Import\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20141215_PO_Import\obj\Debug\PO_Import.vbproj.ResolveComReference.cache
+D:\Project\20141215_PO_Import\obj\Debug\PO_Import.exe
+D:\Project\20141215_PO_Import\obj\Debug\PO_Import.xml
+D:\Project\20141215_PO_Import\obj\Debug\PO_Import.pdb
+D:\Project\20141215_PO_Import\bin\Debug\PO_Import.exe
+D:\Project\20141215_PO_Import\bin\Debug\PO_Import.pdb
+D:\Project\20141215_PO_Import\bin\Debug\PO_Import.xml
+D:\Project\20141215_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\20141215_PO_Import\bin\Debug\office.dll
+D:\Project\20141215_PO_Import\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\20141215_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\20141215_PO_Import\bin\Debug\office.xml
+D:\Project\20141215_PO_Import\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\20141215_PO_Import\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\20141215_PO_Import\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\20141215_PO_Import\obj\Debug\PO_Import.Resources.resources
+D:\Project\20141215_PO_Import\obj\Debug\ResGen.read.1.tlog
+D:\Project\20141215_PO_Import\obj\Debug\ResGen.write.1.tlog
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\PO_Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\PO_Import.exe
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\PO_Import.xml
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\PO_Import.pdb
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\PO_Import.exe
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\PO_Import.pdb
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\PO_Import.xml
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\office.dll
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\office.xml
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\PO_Import.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\ResGen.read.1.tlog
+G:\International Projects_SAP9.0\Procons-4IT\PO_Import\20141215_PO_Import\obj\Debug\ResGen.write.1.tlog
+G:\International Projects_SAP9.0\Procons-4IT\Shiseido\Shiseido_SaleOut Import\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Shiseido\Shiseido_SaleOut Import\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Shiseido\Shiseido_SaleOut Import\obj\Debug\PO_Import.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Shiseido\Shiseido_SaleOut Import\obj\Debug\PO_Import.exe
+G:\International Projects_SAP9.0\Procons-4IT\Shiseido\Shiseido_SaleOut Import\obj\Debug\PO_Import.xml
+G:\International Projects_SAP9.0\Procons-4IT\Shiseido\Shiseido_SaleOut Import\obj\Debug\PO_Import.pdb
